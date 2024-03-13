@@ -66,8 +66,8 @@
 			\MakeUppercase{\@title}\\
 			\vspace{1.0in}
 			A DISSERTATION SUBMITTED TO\\
-			THE FACULTY OF THE DIVISION OF THE \MakeUppercase{\@division}\\
-			IN CANDIDACY FOR THE DEGREE OF\\
+			THE FACULTY OF THE \MakeUppercase{\@division}\\
+			FOR HONORS WITH THE DEGREE OF\\
 			\MakeUppercase{\@degree}\\
 			\ \\
 			DEPARTMENT OF \MakeUppercase{\@department}\\
